@@ -1,13 +1,13 @@
-button {
+.yes, .no {
     font-family: Helvetica, 'Times New Roman', sans-serif;
     font-size: 28px;
 }
 
-button.yes{
+.yes{
     background-color: black;
     color: white;
 }
 
-button.no{
+.no{
     background-color: yellow;
 }
